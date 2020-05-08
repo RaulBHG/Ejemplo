@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int primer = 1111;
+    private int primer = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
