@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class Segunda extends AppCompatActivity {
 
-    private int segunda = 2;
+    private int segunda = 2222;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
